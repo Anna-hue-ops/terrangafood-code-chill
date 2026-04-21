@@ -1,7 +1,7 @@
 # Contributeurs -- TerrangaFood
 
-## Équipe : Code-Chill
+ ## É quipe : [ Nom de guerre ]
 
-| Membre | Rôle Lab 0 | GitHub |
-|--------|-----------|--------|
-| (à compléter par chaque membre via PR) | | |
+ | Membre | R ô le Lab 0 | GitHub |
+ | - - - - - - - -| - - - - - - - - - - -| - - - - - - - -|
+ | ( à compl é ter par chaque membre via PR ) | | |
