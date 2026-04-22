@@ -2,7 +2,7 @@
 
 Plateforme de commande de plats auprès de restaurants dakarois.
 
-**Projet pédagogique** — Architecture Logicielle 2 — L3 Génie Logiciel — ESTM
+**Projet pédagogique** — Architecture Logicielle 2 — L3 Génie Logiciel — ESTM de Dakar 
 
 ## Stack technique
 
