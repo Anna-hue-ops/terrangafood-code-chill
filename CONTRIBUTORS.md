@@ -17,3 +17,8 @@
  | Iveliane YALA| DB | Iveliane2 |
  
 >>>>>>> main
+
+
+## Équipe : Code & Chill
+| Membre | R ô le Lab 0 | GitHub |
+|Penda Gueye |  DO | penda936 |
