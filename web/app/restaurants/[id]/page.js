@@ -3,7 +3,7 @@ import PlatCard from '../../../components/PlatCard';
 import { getRestaurant, getPlatsByRestaurant } from '../../../lib/api';
 
 export default async function RestaurantDetailPage({ params }) {
-  const { id } = params;
+  const { id } = await params;
   let restaurant = null;
   let plats = [];
   let error = null;

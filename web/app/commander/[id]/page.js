@@ -6,7 +6,7 @@ import {
 } from '../../../lib/api';
 
 export default async function CommanderPage({ params }) {
-  const { id } = params;
+  const { id } = await params;
   let restaurant = null;
   let plats = [];
   let error = null;
